@@ -1,0 +1,3 @@
+a=input()
+b=input()
+maxvallue=a if a>b else b
