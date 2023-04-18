@@ -1,4 +1,4 @@
-a=input()
-b=input()
+a=int(input())
+b=int(input())
 minvalue=a if a<b else b
 print(minvalue)
